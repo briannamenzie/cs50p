@@ -1,0 +1,1 @@
+print(input("give me a sentence: ").replace(" ", "..."))

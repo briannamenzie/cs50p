@@ -1,0 +1,1 @@
+print(input("yell at me!! ").lower())
